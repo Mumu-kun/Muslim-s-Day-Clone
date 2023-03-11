@@ -7,8 +7,13 @@ This app
 - includes a reminder functionality and alarm
 - supports playback of all 114 surahs of Qur'an.
 
-Download the "muslims-day-clone.zip" file from 'releases', extract and run the iMain.exe.
+Download the full "muslims-day-clone.zip" from this drive link :
+https://drive.google.com/file/d/1anNStNnOw7OpINOT5moAJdh-uyuNydxW/view?usp=share_link
 
-If you want to avoid downloading the 1.3GB file, you can download the "muslims-day-clone(without-surah).zip" file which omits the surah playback functionality.
+Or,
 
-Here's a video that explains the functionality : https://youtu.be/49qQ2JR9Luc
+There is a smaller "muslims-day-clone.without-surah.zip" file in "releases", which omits the surah audio files and surah playback functionality.
+
+Extract the zip, run the iMain.exe inside.
+
+Here's a video that explains the app functionality : https://youtu.be/49qQ2JR9Luc
