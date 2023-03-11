@@ -10,3 +10,5 @@ This app
 Download the "muslims-day-clone.zip" file from 'releases', extract and run the iMain.exe.
 
 If you want to avoid downloading the 1.3GB file, you can download the "muslims-day-clone(without-surah).zip" file which omits the surah playback functionality.
+
+Here's a video that explains the functionality : https://youtu.be/49qQ2JR9Luc
